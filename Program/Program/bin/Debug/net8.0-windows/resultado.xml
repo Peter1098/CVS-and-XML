@@ -1,0 +1,22 @@
+﻿<NewDataSet>
+  <Table>
+    <Id>1</Id>
+    <Nombre>Peter</Nombre>
+  </Table>
+  <Table>
+    <Id>1</Id>
+    <Nombre>Peter</Nombre>
+  </Table>
+  <Table>
+    <Id>2</Id>
+    <Nombre>Luna</Nombre>
+  </Table>
+  <Table>
+    <Id>3</Id>
+    <Nombre>Karen</Nombre>
+  </Table>
+  <Table>
+    <Id>4</Id>
+    <Nombre>Pedro</Nombre>
+  </Table>
+</NewDataSet>
